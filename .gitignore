@@ -1,0 +1,13 @@
+# Ignore Windows system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Ignore directories
+AppData/
+.nugget/
+node_modules/
+.vscode/
+
+# Ignore temp files
+*.log
